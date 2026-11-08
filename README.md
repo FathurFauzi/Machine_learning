@@ -1,7 +1,7 @@
 # Machine_learning
 
 <div align="center">
-  <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2018/10/CORL_Feature_NVIDIA.png" width="350" alt="Teks Alternatif">
+  <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2018/10/CORL_Feature_NVIDIA.png" width="350" alt="Teks Alternatif"><br>
     <figcaption>AI also learns from mistakes and experience</figcaption>
 </div>
 <br>
