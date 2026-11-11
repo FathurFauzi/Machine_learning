@@ -8,5 +8,5 @@
 
 &emsp; AI like Gemini, claude, ChatGPT, etc can understands and do our task because it learns. At first they had no idea what we talking, then predict it, and compare it to what we actually wanted, that's how ai learns. I also want to know how this machine thinks, and eventually made my own. 
 
-&emsp;Thats why, i will try to explain how machine learn from mistakes, and it's uses to an embedded system, so we can learn together. First, lets learn the smallest component form ai/machine's brains, **[neuron](/Python%20neural%20network%20(ai)/basic_neuron.ipynb)**.
+&emsp;Thats why, i will try to explain how machine learn from mistakes, and it's uses to an embedded system, so we can learn together. First, lets learn the smallest component form ai/machine's brains, **[neuron](/Python%20neural%20network%20(ai)/no1_basic_neuron.ipynb)**.
 
